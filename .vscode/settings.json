@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "lcloud_controller.h": "c",
+        "cmpsc311_util.h": "c"
+    }
+}
